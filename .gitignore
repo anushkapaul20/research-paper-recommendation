@@ -15,11 +15,6 @@ env/
 .venv/
 ENV/
 
-# Generated data & model files (too large for GitHub)
-data/papers.csv
-models/faiss.index
-models/metadata.pkl
-
 # Keep folder structure
 !data/.gitkeep
 !models/.gitkeep
