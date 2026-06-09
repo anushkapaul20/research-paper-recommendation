@@ -171,9 +171,4 @@ To add custom search domains, edit `DEFAULT_QUERIES` in `src/data_collector.py`.
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
----
 
-## 🙋 Author
-
-**Anushka Paul**  
-Feel free to connect on [LinkedIn](https://linkedin.com) or raise an issue on GitHub.
