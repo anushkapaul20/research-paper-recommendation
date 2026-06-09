@@ -7,6 +7,8 @@ A semantic search engine that recommends research papers similar to yours. Uploa
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+🔗 **Live Demo:** [research-paper-recommendation.streamlit.app](https://research-paper-recommendation.streamlit.app)
+
 ---
 
 ## 🚀 Demo
